@@ -1,4 +1,4 @@
-<h1 align="center">✨ Cole Allan F. Peterson ✨</h1>
+<h1 align="center"> Cole Allan F. Peterson </h1>
 
 <p align="center">
   <a href="mailto:colepeterson05@icloud.com"><img src="https://img.shields.io/badge/Email-colepeterson05%40icloud.com-blue?style=for-the-badge&logo=gmail" /></a>

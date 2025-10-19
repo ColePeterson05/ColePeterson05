@@ -62,7 +62,7 @@ Operating Systems & Networking · Object-Oriented Implementation & Design · Fro
 ## 🧭 What’s Next
 
 🔍 Actively seeking **internship opportunities** in:  
-- Software Development  
+- Software Development / Software Engineering  
 - Web Development  
 - Backend or Systems Engineering  
 
@@ -83,7 +83,7 @@ Eager to grow as a developer by contributing to meaningful projects, learning fr
 
 ---
 
-## 🎯 Motto
+##  Motto
 
 > *"Building efficient, elegant, and scalable solutions — one line of code at a time."* 💻
 

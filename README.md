@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-📞 (828)-436-1220 | 🌐 <a href="https://github.com/ColePeterson05">github.com/ColePeterson05</a>
+📞 (828)-436-1220 |  🖥️ <a href="https://github.com/ColePeterson05">github.com/ColePeterson05</a>
 </p>
 
 ---

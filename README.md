@@ -16,7 +16,7 @@
 
 🎓 **University of North Carolina at Charlotte** — *Charlotte, NC*  
 🗓️ **Expected Graduation:** May 2027  
-📘 **Bachelor of Science in Computer Science**  
+💻 **Bachelor of Science in Computer Science**  
 💡 **Concentration:** Software Engineering | **Minor:** Mathematics  
 
 **Relevant Coursework:**  
@@ -39,7 +39,7 @@ Operating Systems & Networking · Object-Oriented Implementation & Design · Fro
 
 ## 🏎️ Projects 👾
 
-### 🎮 **Flappy Bird Clone**  
+### 🦢 **Flappy Bird Clone**  
 🧩 *Java · OOP · Data Structures*  
 📅 *May 2025*  
 - Built a fully functional **Flappy Bird clone** using Java Swing and AWT.  
@@ -50,24 +50,13 @@ Operating Systems & Networking · Object-Oriented Implementation & Design · Fro
 
 ---
 
-### 🔺 **Generic Max Binary Heap**  
-🧩 *Java · JUnit Testing · OOP · Data Structures*  
+###  **Generic Max Binary Heap**  
+ *Java · JUnit Testing · OOP · Data Structures*  
 📅 *April 2025 – May 2025*  
 - Implemented a **Generic Max Binary Heap ADT** with optimized insert, delete, and heapify operations.  
 - Designed algorithms emphasizing **time complexity** and **memory efficiency**.  
 - Applied **10+ JUnit tests** to ensure correctness and performance.  
 - Enhanced understanding of **algorithm design**, **data structure implementation**, and **software testing principles**.
-
----
-
-## 💼 Experience
-
-### 🏢 **Community Assistant** — American Campus Communities, Charlotte, NC  
-📅 *March 2025 – Present*  
-- Provided responsive support to over **300 residents**, ensuring quality service and timely solutions.  
-- Managed administrative operations, mail systems, and accurate resident records.  
-- Conducted property tours for prospective residents, promoting community engagement.  
-- Strengthened **communication**, **organization**, and **team collaboration** in a fast-paced environment.  
 
 ---
 

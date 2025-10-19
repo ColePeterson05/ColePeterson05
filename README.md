@@ -3,11 +3,10 @@
 <p align="center">
   <a href="mailto:colepeterson05@icloud.com"><img src="https://img.shields.io/badge/Email-colepeterson05%40icloud.com-blue?style=for-the-badge&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/cole-peterson2/"><img src="https://img.shields.io/badge/LinkedIn-Cole%20Peterson-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/ColePeterson05"><img src="https://img.shields.io/badge/GitHub-ColePeterson05-181717?style=for-the-badge&logo=github" /></a>
 </p>
 
 <p align="center">
-📞 (828)-436-1220 |  🖥️ <a href="https://github.com/ColePeterson05">github.com/ColePeterson05</a>
+📞 (828)-436-1220 |  🖥️ <a href="https://www.linkedin.com/in/cole-peterson2/">LinkedIn.com/cole-peterson2</a>
 </p>
 
 ---

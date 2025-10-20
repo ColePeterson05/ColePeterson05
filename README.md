@@ -11,7 +11,7 @@
 
 ---
 
-## 🍏 Education
+## 📚 Education
 
 🎓 **University of North Carolina at Charlotte** — *Charlotte, NC*  
 🗓️ **Expected Graduation:** May 2027  

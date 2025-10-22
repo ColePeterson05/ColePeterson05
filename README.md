@@ -36,7 +36,7 @@ Operating Systems & Networking · Object-Oriented Implementation & Design · Fro
 
 ---
 
-## 🏎️ Projects 👾
+## 🏎️ Projects �
 
 ### 🦢 **Flappy Bird Clone**  
 🧩 *Java · OOP · Data Structures*  

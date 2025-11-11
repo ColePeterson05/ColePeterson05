@@ -14,9 +14,9 @@
 ## 📚 Education
 
 🎓 **University of North Carolina at Charlotte** — *Charlotte, NC*  
-   **Expected Graduation:** May 2027  
-   **Bachelor of Science in Computer Science**  
-   **Concentration:** Software Engineering | **Minor:** Mathematics  
+📆 **Expected Graduation:** May 2027  
+🖥️ **Bachelor of Science in Computer Science**  
+🧮 **Concentration:** Software Engineering | **Minor:** Mathematics  
 
 **Relevant Coursework:**  
 Introduction to Python and Java · Data Structures & Algorithms · Computer Systems ·  
@@ -36,7 +36,7 @@ Operating Systems & Networking · Object-Oriented Implementation & Design · Fro
 
 ---
 
-## 🏎️ Projects �
+## 🏎️ Projects
 
 ### 🦢 **Flappy Bird Clone**  
 🧩 *Java · OOP · Data Structures*  
@@ -59,7 +59,7 @@ Operating Systems & Networking · Object-Oriented Implementation & Design · Fro
 
 ---
 
-## 🧭 What’s Next
+## What’s Next?
 
 🔍 Actively seeking **internship opportunities** in:  
 - Software Development / Software Engineering  
@@ -89,4 +89,4 @@ Eager to grow as a developer by contributing to meaningful projects, learning fr
 
 ---
 
-⭐️ *Thanks for stopping by! Feel free to connect or explore my repositories to see what I’ve been working on.*
+*Thanks for stopping by! Feel free to connect or explore my repositories to see what I’ve been working on.*

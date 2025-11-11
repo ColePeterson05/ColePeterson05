@@ -14,9 +14,9 @@
 ## 📚 Education
 
 🎓 **University of North Carolina at Charlotte** — *Charlotte, NC*  
-🗓️ **Expected Graduation:** May 2027  
-💻 **Bachelor of Science in Computer Science**  
-💡 **Concentration:** Software Engineering | **Minor:** Mathematics  
+**Expected Graduation:** May 2027  
+**Bachelor of Science in Computer Science**  
+**Concentration:** Software Engineering | **Minor:** Mathematics  
 
 **Relevant Coursework:**  
 Introduction to Python and Java · Data Structures & Algorithms · Computer Systems ·  

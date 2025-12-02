@@ -83,10 +83,6 @@ Eager to grow as a developer by contributing to meaningful projects, learning fr
 
 ---
 
-##  Motto
-
-> *"Building efficient, elegant, and scalable solutions one line of code at a time."* 💻
-
 ---
 
 *Thanks for stopping by! Feel free to connect or explore my repositories to see what I’ve been working on.*

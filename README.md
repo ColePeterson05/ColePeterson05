@@ -80,6 +80,7 @@ Eager to grow as a developer by contributing to meaningful projects, learning fr
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ColePeterson05&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
+
 ---
 
 *Thanks for stopping by! Feel free to connect or explore my repositories to see what I’ve been working on.*

@@ -38,15 +38,15 @@ Operating Systems & Networking · Object-Oriented Implementation & Design · Fro
 
 ## 🏎️ Projects
 
-💼 Financial Portfolio Manager
+### **Financial Portfolio Manager**
 
-🧩 C# · Object-Oriented Design · Data Structures · Team Project
-📅 October 2025 – December 2025
-	•	Developed a financial portfolio management application in C# as part of a collaborative team project.
-	•	Applied SOLID principles and object-oriented design patterns to create a modular, maintainable codebase.
-	•	Implemented data structures to manage portfolios, transactions, and asset histories, supporting efficient updates and retrieval.
-	•	Built core features including portfolio tracking, trade execution, and account interaction through a structured user interface.
-	•	Collaborated using GitHub, participating in code reviews, debugging, and iterative development within an agile workflow.
+🧩 *C# · Object-Oriented Design · Data Structures · Team Project*
+📅 *October 2025 – December 2025*
+	- 	Developed a financial portfolio management application in C# as part of a collaborative team project.
+	-	Applied SOLID principles and object-oriented design patterns to create a modular, maintainable codebase.
+	-	Implemented data structures to manage portfolios, transactions, and asset histories, supporting efficient updates and retrieval.
+	-	Built core features including portfolio tracking, trade execution, and account interaction through a structured user interface.
+	-	Collaborated using GitHub, participating in code reviews, debugging, and iterative development within an agile workflow.
 
 ---
 

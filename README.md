@@ -29,7 +29,7 @@ Operating Systems & Networking · Object-Oriented Implementation & Design · Fro
 | **Category** | **Skills** |
 |---------------|------------|
 | **Languages** | Python, Java, C#, C, C++, SQL, JavaScript |
-| **Frameworks** | HTML, CSS |
+| **Web** | HTML, CSS |
 | **Testing** | JUnit, Unit Testing, Debugging |
 | **Tools & Platforms** | Oracle, Git, GitHub, Linux, VS Code, IntelliJ IDEA |
 | **Core Competencies** | Data Structures, Algorithms, Object-Oriented Programming, Object Oriented Design |

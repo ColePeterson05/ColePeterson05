@@ -38,14 +38,15 @@ Operating Systems & Networking · Object-Oriented Implementation & Design · Fro
 
 ## 🏎️ Projects
 
-### 🦢 **Flappy Bird Clone**  
-🧩 *Java · OOP · Data Structures*  
-📅 *May 2025*  
-- Built a fully functional **Flappy Bird clone** using Java Swing and AWT.  
-- Implemented **collision detection**, **randomized pipe generation**, and **score tracking**.  
-- Designed **event-driven gameplay** using `KeyListener` and `ActionListener` for smooth control.  
-- Reduced frame rendering lag by **~20%**, ensuring fluid, consistent gameplay.  
-- Strengthened **problem-solving** and **debugging** skills in GUI-based programming.
+💼 Financial Portfolio Manager
+
+🧩 C# · Object-Oriented Design · Data Structures · Team Project
+📅 October 2025 – December 2025
+	•	Developed a financial portfolio management application in C# as part of a collaborative team project.
+	•	Applied SOLID principles and object-oriented design patterns to create a modular, maintainable codebase.
+	•	Implemented data structures to manage portfolios, transactions, and asset histories, supporting efficient updates and retrieval.
+	•	Built core features including portfolio tracking, trade execution, and account interaction through a structured user interface.
+	•	Collaborated using GitHub, participating in code reviews, debugging, and iterative development within an agile workflow.
 
 ---
 

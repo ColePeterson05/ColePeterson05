@@ -32,7 +32,7 @@ Operating Systems & Networking · Object-Oriented Implementation & Design · Fro
 | **Web** | HTML, CSS |
 | **Testing** | JUnit, Unit Testing, Debugging |
 | **Tools & Platforms** | Oracle, Git, GitHub, Linux, VS Code, IntelliJ IDEA |
-| **Core Competencies** | Data Structures, Algorithms, Object-Oriented Programming, Object Oriented Design |
+| **Core Competencies** | Data Structures, Algorithms, Object-Oriented Programming, Object-Oriented Design |
 
 ---
 
@@ -79,14 +79,14 @@ Eager to grow as a developer by contributing to meaningful projects, learning fr
 <!-- GitHub Stats -->
 <img 
   src="https://github-readme-stats.vercel.app/api?username=ColePeterson05&show_icons=true&rank_icon=github&hide_border=true&theme=radical"
-  alt="GitHub Stats"
+  alt="GitHub Stats."
   height="165"
 />
 
 <!-- Top Languages -->
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ColePeterson05&layout=compact&hide_border=true&theme=radical"
-  alt="Top Languages"
+  alt="Top Languages."
   height="165"
 />
 
@@ -95,7 +95,7 @@ Eager to grow as a developer by contributing to meaningful projects, learning fr
 <!-- GitHub Streak -->
 <img 
   src="https://streak-stats.demolab.com?user=ColePeterson05&theme=radical&hide_border=true"
-  alt="GitHub Streak"
+  alt="GitHub Streak."
 />
 
 <!-- Activity Graph -->

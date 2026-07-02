@@ -76,33 +76,6 @@ Eager to grow as a developer by contributing to meaningful projects, learning fr
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=ColePeterson05&show_icons=true&rank_icon=github&hide_border=true&theme=radical"
-  alt="GitHub Stats."
-  height="165"
-/>
-
-<!-- Top Languages -->
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ColePeterson05&layout=compact&hide_border=true&theme=radical"
-  alt="Top Languages."
-  height="165"
-/>
-
-<br/><br/>
-
-<!-- GitHub Streak -->
-<img 
-  src="https://streak-stats.demolab.com?user=ColePeterson05&theme=radical&hide_border=true"
-  alt="GitHub Streak."
-/>
-
-<!-- Activity Graph -->
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ColePeterson05&theme=redical&hide_border=true&area=true"
-  alt="GitHub Activity Graph"
-/>
 
 </div>
 

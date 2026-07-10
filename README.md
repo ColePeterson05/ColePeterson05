@@ -1,4 +1,4 @@
-#Cole Peterson
+## Cole Peterson
 
 Computer Science student at UNC Charlotte (Software Engineering concentration, Math minor). Currently a Software Engineer Intern at RealRev.
 

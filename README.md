@@ -1,84 +1,32 @@
-<h1 align="center"> Cole Allan F. Peterson </h1>
+#Cole Peterson
 
-<p align="center">
-  <a href="mailto:colepeterson05@icloud.com"><img src="https://img.shields.io/badge/Email-colepeterson05%40icloud.com-blue?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/cole-peterson2/"><img src="https://img.shields.io/badge/LinkedIn-Cole%20Peterson-0077B5?style=for-the-badge&logo=linkedin" /></a>
-</p>
+Computer Science student at UNC Charlotte (Software Engineering concentration, Math minor). Currently a Software Engineer Intern at RealRev.
 
-<p align="center">
-📞 (828)-436-1220 |  🖥️ <a href="https://www.linkedin.com/in/cole-peterson2/">LinkedIn.com/cole-peterson2</a>
-</p>
+I like building things with clean, well-structured code — mostly Java, Python, and C#, with some web development on the side.
 
----
+## What I'm working with
 
-## 📚 Education
+Java · Python · C# · JavaScript · SQL · HTML/CSS
 
-🎓 **University of North Carolina at Charlotte** — *Charlotte, NC*  
-📆 **Expected Graduation:** May 2027  
-🖥️ **Bachelor of Science in Computer Science**  
-🧮 **Concentration:** Software Engineering | **Minor:** Mathematics  
+Data Structures & Algorithms · OOP Design · Git/GitHub
 
-**Relevant Coursework:**  
-Introduction to Python and Java · Data Structures & Algorithms · Computer Systems ·  
-Operating Systems & Networking · Object-Oriented Implementation & Design · Front-End Web Development  
+## A few projects
 
----
+- **[Financial Portfolio Manager](https://github.com/ColePeterson05/Financial_Portfolio_Manager)** – C# app for tracking portfolios, trades, and transaction history. Team project, built with SOLID principles.
+- **[Binary Heap (Java)](https://github.com/ColePeterson05/Binary-Heap-Project-Data-Structures)** – Generic max binary heap ADT with a full JUnit test suite.
+- **[Hashing Data Structures](https://github.com/ColePeterson05/Hashing-Data-Structures)** – Java text analysis toolkit for word frequency and term frequency stats.
+- **[FlappyBird](https://github.com/ColePeterson05/FlappyBird)** – Java clone built to practice game logic and OOP.
+- **[Dough Boys Website](https://github.com/ColePeterson05/DoughBoysWebsite)** – Simple restaurant site with HTML, CSS, and JS.
 
-## 🧠 Technical Skills
+## In the works
 
-| **Category** | **Skills** |
-|---------------|------------|
-| **Languages** | Python, Java, C#, C, C++, SQL, JavaScript |
-| **Web** | HTML, CSS |
-| **Testing** | JUnit, Unit Testing, Debugging |
-| **Tools & Platforms** | Oracle, Git, GitHub, Linux, VS Code, IntelliJ IDEA |
-| **Core Competencies** | Data Structures, Algorithms, Object-Oriented Programming, Object-Oriented Design |
+- Currently I'm working on a view side projects. One if for UNC Charlotte students and I hope to have a public release in the next 6 months!
 
----
+## Currently looking for
 
-## 🤖 Projects
+Internship and new-grad opportunities in software engineering, backend, or web development.
 
-### **Financial Portfolio Manager**
+## Reach me
 
-*C# · Object-Oriented Design · Data Structures · Team Project*  
-📆 *October 2025 – December 2025*
-
-- Developed a financial portfolio management application in C# as part of a collaborative team project.
-- Applied **SOLID principles** and **object-oriented design patterns** to create a modular, maintainable codebase.
-- Implemented data structures to manage portfolios, transactions, and asset histories, supporting efficient updates and retrieval.
-- Built core features including portfolio tracking, trade execution, and account interaction through a structured user interface.
-- **Collaborated using GitHub, participating in code reviews, debugging, and iterative development within an agile workflow.**
-
----
-
-###  **Generic Max Binary Heap**  
- *Java · JUnit Testing · OOP · Data Structures*  
- 📅 *April 2025 – May 2025*  
-- Implemented a **Generic Max Binary Heap ADT** with optimized insert, delete, and heapify operations.  
-- Designed algorithms emphasizing **time complexity** and **memory efficiency**.  
-- Applied **10+ JUnit tests** to ensure correctness and performance.  
-- Enhanced understanding of **algorithm design**, **data structure implementation**, and **software testing principles**.
-
----
-
-## What’s Next?
-
-🔍 Actively seeking **internship opportunities** in:  
-- Software Development / Software Engineering  
-- Web Development  
-- Backend or Systems Engineering  
-
-Eager to grow as a developer by contributing to meaningful projects, learning from experienced mentors, and crafting clean, efficient, and innovative software solutions.  
-
----
-
-## 📊 GitHub Insights
-
-<div align="center">
-
-
-</div>
-
----
-
-*Thanks for stopping by! Feel free to connect or explore my repositories to see what I’ve been working on.*
+- Email: colepeterson05@icloud.com
+- LinkedIn: [linkedin.com/in/colepeterson2](https://www.linkedin.com/in/colepeterson2)

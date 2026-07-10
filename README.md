@@ -29,4 +29,4 @@ Internship and new-grad opportunities in software engineering, backend, or web d
 ## Reach me
 
 - Email: colepeterson05@icloud.com
-- LinkedIn: [linkedin.com/in/colepeterson2](https://www.linkedin.com/in/cole-peterson2)
+- LinkedIn: [linkedin.com/in/cole-peterson2](https://www.linkedin.com/in/cole-peterson2)

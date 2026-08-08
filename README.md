@@ -1,12 +1,14 @@
 ## Cole Peterson
 
-Computer Science senior at UNC Charlotte (Software Engineering concentration, Math minor). Currently a Software Engineer Intern at RealRev.
+Computer Science senior at UNC Charlotte (Software Engineering concentration, Mathematics minor). Currently a Software Engineer Intern at RealRev.
 
 I like building things with clean, well-structured code — mostly Java, Python, and C#, with some web development on the side.
 
 ## What I'm working with
 
-Java · Python · C# · JavaScript · SQL · HTML/CSS
+Java · Python · C# · JavaScript · SQL · HTML/CSS 
+
+Pandas · Appache AirFlow · React
 
 Data Structures & Algorithms · OOP Design · Git/GitHub
 
@@ -20,11 +22,11 @@ Data Structures & Algorithms · OOP Design · Git/GitHub
 
 ## In the works
 
-- Currently I'm working on a view side projects. One if for UNC Charlotte students and I hope to have a public release in the next 6 months!
+- Currently I'm working on a view side projects. One if for UNC Charlotte students and I hope to have a public release in alpha soon!
 
 ## Currently looking for
 
-Internship and new-grad opportunities in software engineering, backend, or web development.
+New-grad opportunities in software engineering, data engineering, or full stack development.
 
 ## Reach me
 

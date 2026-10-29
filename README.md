@@ -22,11 +22,8 @@ Data Structures & Algorithms · OOP Design · Git/GitHub
 
 ## In the works
 
-- Currently I'm working on a view side projects. One if for UNC Charlotte students and I hope to have a public release in alpha soon!
+Currently pausing my side projects to focus on finishing my senior year while working part time for RealRev. 
 
-## Currently looking for
-
-New-grad opportunities in software engineering, data engineering, or full stack development.
 
 ## Reach me
 
